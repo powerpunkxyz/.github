@@ -1,4 +1,4 @@
-# ⚡ powerpunk.xyz
+# ⚡ powerpunk
 
 ```
 The coordination layer for climate action.
