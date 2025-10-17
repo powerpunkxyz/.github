@@ -1,16 +1,15 @@
 # ⚡ Powerpunk
 
 ```
-The coordination layer for climate action.
-On-chain tools that let communities fund and launch cooperative projects.
+The coordination layer for the people.
+Web3 platform that let anyone fund and own real-world projects together.
 ```
-🌱 Climate action requires trust & coordination. Powerpunk provides transparent escrows, ENS-linked projects, and social distribution so communities can pool resources for:
-🌞 community solar, 🔋 microgrids, 🌳 tree planting, 🏘️ bulk HVAC upgrades, and more.
+🌱 PowerPunk makes community ownership accessible to anyone, from new bars and nonprofits to solar co-ops. A trustless, transparent fundraising platform powered by Base Chain.
 
-📍 USA (for now)
+📍 USA
 
 💻 Tech stack
 - Solidity
-- Next.js
-- Elixir
+- React.js
+- Elixir/Phoenix
 - PostgreSQL
